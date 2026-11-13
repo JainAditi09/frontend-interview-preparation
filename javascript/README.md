@@ -1,7 +1,6 @@
 # JavaScript
 
-Planned chapters:
-- Fundamentals: scope, closures, hoisting, `this`, prototypes and coercion
-- Event Loop — next chapter
-- Promises and async/await
-- Polyfills and common coding patterns
+- [Event Loop](event-loop/README.md)
+- Fundamentals: scope, closures, hoisting, `this`, prototypes and coercion (planned)
+- Promises and async/await (planned)
+- Polyfills and common coding patterns (planned)
