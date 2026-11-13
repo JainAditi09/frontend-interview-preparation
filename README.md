@@ -72,9 +72,15 @@ A practical, topic-wise guide for SDE-1, SDE-2 and Senior Frontend Engineer inte
 - `last-minute-revision/` — compact revision sheets
 
 ## Chapters
-- [Browser: Web Workers](browser/web-workers/README.md)
+### JavaScript
+- [JavaScript Event Loop](javascript/event-loop/README.md)
+
+### Browser Internals
+- [Web Workers](browser/web-workers/README.md)
+- [Browser Rendering Pipeline](browser/browser-rendering-pipeline/README.md)
+- [Critical Rendering Path](browser/critical-rendering-path/README.md)
 
 ## Suggested study sequence
-JavaScript fundamentals → Async JavaScript & Event Loop → Browser internals → HTML/CSS → React → TypeScript → Performance → Testing → Machine coding → Frontend system design.
+JavaScript fundamentals → Event Loop → Browser Rendering Pipeline → Critical Rendering Path → HTML/CSS → React → TypeScript → Performance → Testing → Machine coding → Frontend system design.
 
 Keep explanations interview-focused, examples runnable and caveats explicit. Prefer authoritative specifications and documentation for browser behaviour.
