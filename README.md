@@ -80,6 +80,9 @@ A practical, topic-wise guide for SDE-1, SDE-2 and Senior Frontend Engineer inte
 - [Browser Rendering Pipeline](browser/browser-rendering-pipeline/README.md)
 - [Critical Rendering Path](browser/critical-rendering-path/README.md)
 
+### Security
+- [Frontend Security: Concepts & Interview Questions](security/README.md)
+
 ## Suggested study sequence
 JavaScript fundamentals → Event Loop → Browser Rendering Pipeline → Critical Rendering Path → HTML/CSS → React → TypeScript → Performance → Testing → Machine coding → Frontend system design.
 
